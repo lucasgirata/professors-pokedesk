@@ -19,6 +19,7 @@ header a {
 header #logo {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 header #logo img {
@@ -35,6 +36,8 @@ header #logo h2 {
 
 header nav {
   margin: 0 auto;
+  align-items: center;
+  justify-content: center;
 }
 
 header nav a {
@@ -73,16 +76,17 @@ main h1 {
 .section1 #search-bar {
   padding: 8px 16px;
   width: 300px;
-  border: none;
+  border: 2px solid rgb(128, 128, 212);
   background-color: rgb(220, 220, 230);
   text-align: left;
+  border-radius: 5px;
 }
 
 .section1 input[type="checkbox"] {
+  margin: 20px 10px;
   width: 20px;
   height: 20px;
   background-color: rgb(220, 220, 230);
-  margin: 10px;
 }
 
 .section1 label {
@@ -99,6 +103,7 @@ label[for="iniciais"] {
 }
 
 .boxes {
+  display: flex;
   align-items: center;
 }
 
