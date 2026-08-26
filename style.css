@@ -53,6 +53,13 @@ hr {
   background-color: rgb(128, 128, 212);
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 main h1 {
   text-align: center;
   font-size: 45px;
@@ -60,8 +67,33 @@ main h1 {
   color: rgb(128, 128, 212);
 }
 
+main h2 {
+  text-align: center;
+  font-family: "Pokemon Solid", sans-serif;
+  color: rgb(89, 89, 155);
+}
+
+.description {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 1000px;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgb(193, 193, 235);
+  transition: 0.2s;
+}
+
+.description:hover {
+  scale: 1.05;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
 .container {
   display: flex;
+  margin: 50px auto;
 }
 
 .section1,
@@ -70,10 +102,23 @@ main h1 {
 }
 
 .section1 {
+  display: flex;
+  flex-direction: column;
   align-items: center;
+  background-color: rgb(220, 220, 230);
+  height: 250px;
+  padding: 30px;
+  border-radius: 10px;
+  transition: 0.2s;
 }
 
-.section1 #search-bar {
+.section1:hover {
+  scale: 1.08;
+  transition: 0.2s;
+}
+
+.section1 #search-bar,
+.section1 #type-selection {
   padding: 8px 16px;
   width: 300px;
   border: 2px solid rgb(128, 128, 212);
@@ -105,6 +150,7 @@ label[for="iniciais"] {
 .boxes {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 #pokemon-list {
@@ -156,16 +202,68 @@ label[for="iniciais"] {
   font-weight: bold;
 }
 
-.planta {
-  background-color: green;
+.água {
+  background-color: royalblue;
 }
 
-.veneno {
-  background-color: purple;
+.dragão {
+  background-color: rgb(146, 27, 27);
+}
+
+.elétrico {
+  background-color: rgb(231, 204, 2);
+}
+
+.fada {
+  background-color: palevioletred;
+}
+
+.fantasma {
+  background-color: rgb(50, 9, 55);
 }
 
 .fogo {
   background-color: orange;
+}
+
+.gelo {
+  background-color: rgb(129, 170, 209);
+}
+
+.inseto {
+  background-color: rgb(173, 194, 56);
+}
+
+.lutador {
+  background-color: rgb(193, 80, 0);
+}
+
+.metal {
+  background-color: rgb(105, 101, 101);
+}
+
+.normal {
+  background-color: lightslategray;
+}
+
+.pedra {
+  background-color: rgb(103, 75, 57);
+}
+
+.planta {
+  background-color: green;
+}
+
+.psíquico {
+  background-color: rgb(184, 79, 127);
+}
+
+.terrestre {
+  background-color: rgb(161, 115, 82);
+}
+
+.veneno {
+  background-color: purple;
 }
 
 .voador {
@@ -173,54 +271,87 @@ label[for="iniciais"] {
   background-color: rgb(207, 243, 255);
 }
 
-.água {
-  background-color: royalblue;
+option[value="agua"] {
+  color: royalblue;
 }
 
-.inseto {
-  background-color: rgb(173, 194, 56);
+option[value="dragao"] {
+  color: rgb(146, 27, 27);
 }
 
-.normal {
-  background-color: lightslategray;
+option[value="eletrico"] {
+  color: rgb(231, 204, 2);
 }
 
-.elétrico {
-  background-color: rgb(231, 204, 2);
+option[value="fada"] {
+  color: palevioletred;
 }
 
-.terrestre {
-  background-color: rgb(161, 115, 82);
+option[value="fantasma"] {
+  color: rgb(50, 9, 55);
 }
 
-.fada {
-  background-color: palevioletred;
+option[value="fogo"] {
+  color: orange;
 }
 
-.lutador {
-  background-color: rgb(193, 80, 0);
+option[value="gelo"] {
+  color: rgb(129, 170, 209);
 }
 
-.psíquico {
-  background-color: rgb(184, 79, 127);
+option[value="inseto"] {
+  color: rgb(173, 194, 56);
 }
 
-.pedra {
-  background-color: rgb(103, 75, 57);
+option[value="lutador"] {
+  color: rgb(193, 80, 0);
 }
 
-.metal {
-  background-color: rgb(105, 101, 101);
+option[value="metal"] {
+  color: rgb(105, 101, 101);
 }
 
-.gelo {
-  background-color: rgb(129, 170, 209);
+option[value="normal"] {
+  color: lightslategray;
 }
 
-.fantasma {
-  background-color: rgb(50, 9, 55);
+option[value="pedra"] {
+  color: rgb(103, 75, 57);
 }
 
-.dragão {
-  background-color: rgb(146, 27, 27);
+option[value="planta"] {
+  color: green;
+}
+
+option[value="psiquico"] {
+  color: rgb(184, 79, 127);
+}
+
+option[value="terrestre"] {
+  color: rgb(161, 115, 82);
+}
+
+option[value="veneno"] {
+  color: purple;
+}
+
+option[value="voador"] {
+  color: rgb(59, 95, 107);
+}
+
+.section1 button {
+  margin: 20px;
+  padding: 8px;
+  border: 2px solid rgb(89, 89, 155);
+  background-color: rgb(128, 128, 212);
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.section1 button:hover {
+  scale: 1.1;
+  transition: 0.2s;
 }
