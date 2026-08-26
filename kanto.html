@@ -10,7 +10,7 @@
       rel="stylesheet"
     />
     <link rel="icon" type="image/png" href="imgs/pokedex.webp" />
-    <script src="kanto.js"></script>
+    <script src="kanto.js" defer></script>
   </head>
   <body>
     <header>
@@ -33,13 +33,12 @@
       <h1>Pokedéx Kanto ( Geração 1 )</h1>
       <h2>Descrição da Região:</h2>
       <p class="description">
-        Kanto é a primeira região apresentada no mundo Pokémon e serve como
-        cenário para as aventuras de Pokémon Red, Blue, Yellow e seus
-        respectivos remakes. Localizada próxima à região de Johto, Kanto possui
-        uma grande diversidade de ambientes, desde cidades movimentadas e
-        florestas até cavernas, montanhas e oceanos. A região conta com oito
-        Ginásios Pokémon, a Elite Four e uma grande variedade de Pokémon, sendo
-        o lar dos 151 Pokémon da primeira geração.
+        Kanto é a primeira região apresentada no mundo de Pokémon, cenário das
+        aventuras de Pokémon Red, Blue, Yellow e seus remakes. Kanto possui uma
+        grande diversidade de ambientes, desde cidades movimentadas, florestas,
+        cavernas, montanhas e oceanos. A região conta com oito Ginásios Pokémon,
+        a Elite dos Quatro e uma variedade enorme de Pokémon, sendo o lar dos
+        151 Pokémon da primeira geração.
       </p>
 
       <div class="container">
@@ -59,7 +58,7 @@
           </div>
 
           <select name="types" id="type-selection">
-            <option value="" disabled selected>Selecione o tipo</option>
+            <option value="">Todos tipos</option>
             <option value="agua">Água</option>
             <option value="dragao">Dragão</option>
             <option value="eletrico">Elétrico</option>
@@ -79,11 +78,11 @@
             <option value="voador">Voador</option>
           </select>
 
-          <button>Aplicar filtros</button>
+          <button type="button">Aplicar filtros</button>
         </section>
 
         <section class="section2">
-          <div id="pokemon-list" defer></div>
+          <div id="pokemon-list"></div>
         </section>
       </div>
     </main>
