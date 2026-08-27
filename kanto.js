@@ -1,7 +1,7 @@
 let pokemons = [];
 
+const searchBar = document.getElementById("search-bar");
 const selectTipo = document.getElementById("type-selection");
-const buttonFilter = document.querySelector(".section1 button");
 const checkboxInicial = document.getElementById("iniciais");
 const checkboxLendario = document.getElementById("lendario");
 
@@ -48,11 +48,15 @@ function normalizarTipo(tipo) {
 }
 
 function filterPokemon() {
+  const nomeBusca = normalizarTipo(searchBar.value.trim());
   const tipoSelecionado = selectTipo.value;
   const inicialSelecionado = checkboxInicial.checked;
   const lendarioSelecionado = checkboxLendario.checked;
 
   const filtrados = pokemons.filter((pokemon) => {
+    const nome =
+      nomeBusca === "" || normalizarTipo(pokemon.nome).includes(nomeBusca);
+
     const type =
       tipoSelecionado === "" ||
       pokemon.tipos.some((tipo) => normalizarTipo(tipo) === tipoSelecionado);
@@ -60,12 +64,15 @@ function filterPokemon() {
     const starter = !inicialSelecionado || pokemon.inicial;
     const legendary = !lendarioSelecionado || pokemon.lendario;
 
-    return type && starter && legendary;
+    return nome && type && starter && legendary;
   });
 
   mostrarPokemons(filtrados);
 }
 
-buttonFilter.addEventListener("click", filterPokemon);
+searchBar.addEventListener("input", filterPokemon);
+selectTipo.addEventListener("change", filterPokemon);
+checkboxInicial.addEventListener("change", filterPokemon);
+checkboxLendario.addEventListener("change", filterPokemon);
 
 carregarPokemons();
