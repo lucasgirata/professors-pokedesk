@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Professor's PokéDesk</title>
+    <link rel="stylesheet" href="index.css" />
+    <link rel="icon" type="image/x-icon" href="../imgs/pokedex.webp" />
+    <script src="index.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <a href="index.html" id="logo">
+        <img src="../imgs/pokedex.webp" alt="logo_pokedex" />
+        <h2>Professor's PokéDesk</h2>
+      </a>
+      <nav>
+        <a href="index.html">Página Inicial</a>
+        <a href="kanto.html">Kanto</a>
+        <a href="johto.html">Johto</a>
+        <a href="hoenn.html">Hoenn</a>
+        <a href="time.html">Meu time</a>
+      </nav>
+    </header>
+
+    <hr />
+
+    <main>
+      <section class="section1">
+        <h1>Professor's PokéDesk</h1>
+        <h2>Seu laboratório de pesquisa Pokémon</h2>
+        <div id="speak">
+          <div>
+            <h4>Professor Oak</h4>
+            <img src="../imgs/index/professor.png" alt="Professor" />
+          </div>
+          <h3 id="speech"></h3>
+        </div>
+      </section>
+
+      <hr />
+
+      <section class="section2">
+        <h1>Qual região você deseja explorar?</h1>
+        <div class="region-cards">
+          <div class="card">
+            <span id="kanto">
+              <h3>Kanto</h3>
+            </span>
+            <p>Região #01</p>
+            <p>151 Pokémon</p>
+            <img src="../imgs/index/charizard.png" alt="Charizard" />
+            <a href="kanto.html">Explorar</a>
+          </div>
+
+          <div class="card">
+            <span id="johto">
+              <h3>Johto</h3>
+            </span>
+            <p>Região #02</p>
+            <p>100 Pokémon</p>
+            <img src="../imgs/index/tyranitar.png" alt="Tyranitar" />
+            <a href="johto.html">Explorar</a>
+          </div>
+
+          <div class="card">
+            <span id="hoenn">
+              <h3>Hoenn</h3>
+            </span>
+            <p>Região #03</p>
+            <p>135 Pokémon</p>
+            <img src="../imgs/index/metagross.png" alt="Metagross" />
+            <a href="hoenn.html">Explorar</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>© Professor's PokéDesk, Lucas C. Girata, 2026</footer>
+  </body>
+</html>

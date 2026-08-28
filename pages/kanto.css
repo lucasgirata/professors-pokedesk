@@ -123,7 +123,6 @@ main h2 {
 
 .description:hover {
   scale: 1.05;
-  transition: 0.2s;
   cursor: pointer;
 }
 
@@ -158,7 +157,6 @@ main h2 {
 
 .section1:hover {
   scale: 1.08;
-  transition: 0.2s;
 }
 
 .section1 #search-bar,
@@ -229,7 +227,6 @@ label[for="iniciais"] {
 
 .pokemon-card:hover {
   scale: 1.08;
-  transition: 0.2s;
 }
 
 .tipos {
@@ -397,7 +394,6 @@ option[value="voador"] {
 
 .section1 button:hover {
   scale: 1.1;
-  transition: 0.2s;
 }
 
 footer {

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 152,
+    "nome": "Chikorita",
+    "tipos": ["Planta"],
+    "inicial": true,
+    "lendario": false,
+    "imagem": "../imgs/johto/152.png"
+  },
+  {
+    "id": 153,
+    "nome": "Bayleef",
+    "tipos": ["Planta"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/153.png"
+  },
+  {
+    "id": 154,
+    "nome": "Meganium",
+    "tipos": ["Planta"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/154.png"
+  },
+  {
+    "id": 155,
+    "nome": "Cyndaquil",
+    "tipos": ["Fogo"],
+    "inicial": true,
+    "lendario": false,
+    "imagem": "../imgs/johto/155.png"
+  },
+  {
+    "id": 156,
+    "nome": "Quilava",
+    "tipos": ["Fogo"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/156.png"
+  },
+  {
+    "id": 157,
+    "nome": "Typhlosion",
+    "tipos": ["Fogo"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/157.png"
+  },
+  {
+    "id": 158,
+    "nome": "Totodile",
+    "tipos": ["Água"],
+    "inicial": true,
+    "lendario": false,
+    "imagem": "../imgs/johto/158.png"
+  },
+  {
+    "id": 159,
+    "nome": "Croconaw",
+    "tipos": ["Água"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/159.png"
+  },
+  {
+    "id": 160,
+    "nome": "Feraligatr",
+    "tipos": ["Água"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/160.png"
+  },
+  {
+    "id": 161,
+    "nome": "Sentret",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/161.png"
+  },
+  {
+    "id": 162,
+    "nome": "Furret",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/162.png"
+  },
+  {
+    "id": 163,
+    "nome": "Hoothoot",
+    "tipos": ["Normal", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/163.png"
+  },
+  {
+    "id": 164,
+    "nome": "Noctowl",
+    "tipos": ["Normal", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/164.png"
+  },
+  {
+    "id": 165,
+    "nome": "Ledyba",
+    "tipos": ["Inseto", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/165.png"
+  },
+  {
+    "id": 166,
+    "nome": "Ledian",
+    "tipos": ["Inseto", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/166.png"
+  },
+  {
+    "id": 167,
+    "nome": "Spinarak",
+    "tipos": ["Inseto", "Veneno"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/167.png"
+  },
+  {
+    "id": 168,
+    "nome": "Ariados",
+    "tipos": ["Inseto", "Veneno"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/168.png"
+  },
+  {
+    "id": 169,
+    "nome": "Crobat",
+    "tipos": ["Veneno", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/167.png"
+  },
+  {
+    "id": 170,
+    "nome": "Chinchou",
+    "tipos": ["Água", "Elétrico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/170.png"
+  },
+  {
+    "id": 171,
+    "nome": "Lanturn",
+    "tipos": ["Água", "Elétrico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/171.png"
+  },
+  {
+    "id": 172,
+    "nome": "Pichu",
+    "tipos": ["Elétrico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/172.png"
+  },
+  {
+    "id": 173,
+    "nome": "Cleffa",
+    "tipos": ["Fada"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/173.png"
+  },
+  {
+    "id": 174,
+    "nome": "Igglybuff",
+    "tipos": ["Normal", "Fada"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/174.png"
+  },
+  {
+    "id": 175,
+    "nome": "Togepi",
+    "tipos": ["Fada"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/175.png"
+  },
+  {
+    "id": 176,
+    "nome": "Togetic",
+    "tipos": ["Fada", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/176.png"
+  },
+  {
+    "id": 177,
+    "nome": "Natu",
+    "tipos": ["Psíquico", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/177.png"
+  },
+  {
+    "id": 178,
+    "nome": "Xatu",
+    "tipos": ["Psíquico", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/178.png"
+  },
+  {
+    "id": 179,
+    "nome": "Mareep",
+    "tipos": ["Elétrico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/179.png"
+  },
+  {
+    "id": 180,
+    "nome": "Flaaffy",
+    "tipos": ["Elétrico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/180.png"
+  },
+  {
+    "id": 181,
+    "nome": "Ampharos",
+    "tipos": ["Elétrico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/181.png"
+  },
+  {
+    "id": 182,
+    "nome": "Bellossom",
+    "tipos": ["Planta"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/182.png"
+  },
+  {
+    "id": 183,
+    "nome": "Marill",
+    "tipos": ["Água", "Fada"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/183.png"
+  },
+  {
+    "id": 184,
+    "nome": "Azumarill",
+    "tipos": ["Água", "Fada"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/184.png"
+  },
+  {
+    "id": 185,
+    "nome": "Sudowoodo",
+    "tipos": ["Pedra"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/185.png"
+  },
+  {
+    "id": 186,
+    "nome": "Politoed",
+    "tipos": ["Água"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/186.png"
+  },
+  {
+    "id": 187,
+    "nome": "Hoppip",
+    "tipos": ["Planta", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/187.png"
+  },
+  {
+    "id": 188,
+    "nome": "Skiploom",
+    "tipos": ["Planta", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/188.png"
+  },
+  {
+    "id": 189,
+    "nome": "Jumpluff",
+    "tipos": ["Planta", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/189.png"
+  },
+  {
+    "id": 190,
+    "nome": "Aipom",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/190.png"
+  },
+  {
+    "id": 191,
+    "nome": "Sunkern",
+    "tipos": ["Planta"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/191.png"
+  },
+  {
+    "id": 192,
+    "nome": "Sunflora",
+    "tipos": ["Planta"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/192.png"
+  },
+  {
+    "id": 193,
+    "nome": "Yanma",
+    "tipos": ["Inseto", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/193.png"
+  },
+  {
+    "id": 194,
+    "nome": "Wooper",
+    "tipos": ["Água", "Terrestre"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/194.png"
+  },
+  {
+    "id": 195,
+    "nome": "Quagsire",
+    "tipos": ["Água", "Terrestre"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/195.png"
+  },
+  {
+    "id": 196,
+    "nome": "Espeon",
+    "tipos": ["Psíquico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/196.png"
+  },
+  {
+    "id": 197,
+    "nome": "Umbreon",
+    "tipos": ["Sombrio"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/197.png"
+  },
+  {
+    "id": 198,
+    "nome": "Murkrow",
+    "tipos": ["Sombrio", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/198.png"
+  },
+  {
+    "id": 199,
+    "nome": "Slowking",
+    "tipos": ["Água", "Psíquico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/199.png"
+  },
+  {
+    "id": 200,
+    "nome": "Misdreavus",
+    "tipos": ["Fantasma"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/200.png"
+  },
+  {
+    "id": 201,
+    "nome": "Unown",
+    "tipos": ["Psíquico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/201.png"
+  },
+  {
+    "id": 202,
+    "nome": "Wobbuffet",
+    "tipos": ["Psíquico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/202.png"
+  },
+  {
+    "id": 203,
+    "nome": "Girafig",
+    "tipos": ["Normal", "Psíquico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/203.png"
+  },
+  {
+    "id": 204,
+    "nome": "Pineco",
+    "tipos": ["Inseto"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/204.png"
+  },
+  {
+    "id": 205,
+    "nome": "Forretress",
+    "tipos": ["Inseto", "Metal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/205.png"
+  },
+  {
+    "id": 206,
+    "nome": "Dunsparce",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/206.png"
+  },
+  {
+    "id": 207,
+    "nome": "Gligar",
+    "tipos": ["Terrestre", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/207.png"
+  },
+  {
+    "id": 208,
+    "nome": "Steelix",
+    "tipos": ["Metal", "Terrestre"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/208.png"
+  },
+  {
+    "id": 209,
+    "nome": "Snubbull",
+    "tipos": ["Fada"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/209.png"
+  },
+  {
+    "id": 210,
+    "nome": "Granbull",
+    "tipos": ["Fada"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/210.png"
+  },
+  {
+    "id": 211,
+    "nome": "Qwilfish",
+    "tipos": ["Água", "Veneno"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/211.png"
+  },
+  {
+    "id": 212,
+    "nome": "Scizor",
+    "tipos": ["Inseto", "Metal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/212.png"
+  },
+  {
+    "id": 213,
+    "nome": "Shuckle",
+    "tipos": ["Inseto", "Pedra"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/213.png"
+  },
+  {
+    "id": 214,
+    "nome": "Heracross",
+    "tipos": ["Inseto", "Lutador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/214.png"
+  },
+  {
+    "id": 215,
+    "nome": "Sneasel",
+    "tipos": ["Sombrio", "Gelo"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/215.png"
+  },
+  {
+    "id": 216,
+    "nome": "Teddiursa",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/216.png"
+  },
+  {
+    "id": 217,
+    "nome": "Ursaring",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/217.png"
+  },
+  {
+    "id": 218,
+    "nome": "Slugma",
+    "tipos": ["Fogo"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/218.png"
+  },
+  {
+    "id": 219,
+    "nome": "Magcargo",
+    "tipos": ["Fogo", "Pedra"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/219.png"
+  },
+  {
+    "id": 220,
+    "nome": "Swinub",
+    "tipos": ["Gelo", "Terrestre"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/220.png"
+  },
+  {
+    "id": 221,
+    "nome": "Piloswine",
+    "tipos": ["Gelo", "Terrestre"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/221.png"
+  },
+  {
+    "id": 222,
+    "nome": "Corsola",
+    "tipos": ["Água", "Pedra"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/222.png"
+  },
+  {
+    "id": 223,
+    "nome": "Remoraid",
+    "tipos": ["Água"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/223.png"
+  },
+  {
+    "id": 224,
+    "nome": "Octillery",
+    "tipos": ["Água"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/224.png"
+  },
+  {
+    "id": 225,
+    "nome": "Delibird",
+    "tipos": ["Gelo", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/225.png"
+  },
+  {
+    "id": 226,
+    "nome": "Mantine",
+    "tipos": ["Água", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/226.png"
+  },
+  {
+    "id": 227,
+    "nome": "Skarmory",
+    "tipos": ["Metal", "Voador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/227.png"
+  },
+  {
+    "id": 228,
+    "nome": "Houndour",
+    "tipos": ["Sombrio", "Fogo"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/228.png"
+  },
+  {
+    "id": 229,
+    "nome": "Houndoom",
+    "tipos": ["Sombrio", "Fogo"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/229.png"
+  },
+  {
+    "id": 230,
+    "nome": "Kingdra",
+    "tipos": ["Água", "Dragão"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/230.png"
+  },
+  {
+    "id": 231,
+    "nome": "Phanpy",
+    "tipos": ["Terrestre"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/231.png"
+  },
+  {
+    "id": 232,
+    "nome": "Donphan",
+    "tipos": ["Terrestre"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/232.png"
+  },
+  {
+    "id": 233,
+    "nome": "Porygon2",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/233.png"
+  },
+  {
+    "id": 234,
+    "nome": "Stantler",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/234.png"
+  },
+  {
+    "id": 235,
+    "nome": "Smeargle",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/235.png"
+  },
+  {
+    "id": 236,
+    "nome": "Tyrogue",
+    "tipos": ["Lutador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/236.png"
+  },
+  {
+    "id": 237,
+    "nome": "Hitmontop",
+    "tipos": ["Lutador"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/237.png"
+  },
+  {
+    "id": 238,
+    "nome": "Smoochun",
+    "tipos": ["Gelo", "Psíquico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/238.png"
+  },
+  {
+    "id": 239,
+    "nome": "Elekid",
+    "tipos": ["Elétrico"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/239.png"
+  },
+  {
+    "id": 240,
+    "nome": "Magby",
+    "tipos": ["Fogo"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/240.png"
+  },
+  {
+    "id": 241,
+    "nome": "Miltank",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/241.png"
+  },
+  {
+    "id": 242,
+    "nome": "Blissey",
+    "tipos": ["Normal"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/242.png"
+  },
+  {
+    "id": 243,
+    "nome": "Raikou",
+    "tipos": ["Elétrico"],
+    "inicial": false,
+    "lendario": true,
+    "imagem": "../imgs/johto/243.png"
+  },
+  {
+    "id": 244,
+    "nome": "Entei",
+    "tipos": ["Fogo"],
+    "inicial": false,
+    "lendario": true,
+    "imagem": "../imgs/johto/244.png"
+  },
+  {
+    "id": 245,
+    "nome": "Suicune",
+    "tipos": ["Água"],
+    "inicial": false,
+    "lendario": true,
+    "imagem": "../imgs/johto/245.png"
+  },
+  {
+    "id": 246,
+    "nome": "Larvitar",
+    "tipos": ["Pedra", "Terrestre"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/246.png"
+  },
+  {
+    "id": 247,
+    "nome": "Pupitar",
+    "tipos": ["Pedra", "Terrestre"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/247.png"
+  },
+  {
+    "id": 248,
+    "nome": "Tyranitar",
+    "tipos": ["Pedra", "Sombrio"],
+    "inicial": false,
+    "lendario": false,
+    "imagem": "../imgs/johto/248.png"
+  },
+  {
+    "id": 249,
+    "nome": "Lugia",
+    "tipos": ["Psíquico", "Voador"],
+    "inicial": false,
+    "lendario": true,
+    "imagem": "../imgs/johto/249.png"
+  },
+  {
+    "id": 250,
+    "nome": "Ho-Oh",
+    "tipos": ["Fogo", "Voador"],
+    "inicial": false,
+    "lendario": true,
+    "imagem": "../imgs/johto/250.png"
+  },
+  {
+    "id": 251,
+    "nome": "Celebi",
+    "tipos": ["Psíquico", "Planta"],
+    "inicial": false,
+    "lendario": true,
+    "imagem": "../imgs/johto/251.png"
+  }
+]

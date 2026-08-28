@@ -24,7 +24,7 @@ function cardPokemon(pokemon) {
 }
 
 async function carregarPokemons() {
-  const resposta = await fetch("./data/kanto.json");
+  const resposta = await fetch("../data/johto.json");
   pokemons = await resposta.json();
 
   mostrarPokemons(pokemons);

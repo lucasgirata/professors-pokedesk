@@ -1,0 +1,233 @@
+@import url("https://fonts.cdnfonts.com/css/pokemon-solid-2");
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(237, 237, 244);
+}
+
+header {
+  display: flex;
+  align-items: center;
+}
+
+header a {
+  text-decoration: none;
+  color: rgb(128, 128, 212);
+}
+
+header #logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header #logo img {
+  width: 60px;
+  height: auto;
+  margin: 15px;
+  margin-right: 5px;
+}
+
+header #logo h2 {
+  font-family: "Pokemon Solid", sans-serif;
+  font-size: x-large;
+}
+
+header nav {
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+header nav a {
+  font-family: "Pokemon Solid", sans-serif;
+  font-size: x-large;
+  margin: 15px;
+}
+
+hr {
+  margin: 15px;
+  height: 3px;
+  border: none;
+  background-color: rgb(128, 128, 212);
+}
+
+main hr {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.section1,
+.section2 {
+  text-align: center;
+}
+
+.section1 h3 {
+  margin: 30px;
+}
+
+.section1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.section1 h1 {
+  font-family: "Pokemon Solid", sans-serif;
+  font-size: 5em;
+  color: rgb(62, 62, 112);
+}
+
+.section1 h2 {
+  font-weight: bolder;
+  font-size: 2em;
+  color: rgb(172, 34, 34);
+}
+
+.section1 h3 {
+  background-color: white;
+  color: rgb(62, 62, 112);
+  width: 200px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid rgb(62, 62, 112);
+  transition: 0.3s;
+}
+
+.section1 h3:hover {
+  scale: 1.07;
+}
+
+.section1 h4 {
+  background-color: white;
+  color: rgb(62, 62, 112);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid rgb(62, 62, 112);
+  transition: 0.3s;
+}
+
+.section1 h4:hover {
+  scale: 1.07;
+}
+
+.section1 img {
+  margin: 10px;
+  height: 300px;
+  width: auto;
+  transition: 0.3s;
+}
+
+.section1 img:hover {
+  scale: 1.07;
+}
+
+#speak {
+  background-color: rgb(213, 213, 231);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin: 50px;
+  transition: 0.3s;
+  border-radius: 10px;
+}
+
+#speak:hover {
+  scale: 1.03;
+  img {
+    content: url("../imgs/index/professor2.png");
+  }
+}
+
+.section2 {
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.section2 h1 {
+  font-family: "Pokemon Solid", sans-serif;
+  font-size: 3em;
+  color: rgb(172, 34, 34);
+  margin: 20px;
+}
+
+.region-cards {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(220, 220, 230);
+  color: rgb(33, 33, 61);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  width: 270px;
+  transition: 0.2s;
+}
+
+.card:hover {
+  scale: 1.1;
+}
+
+.card h3 {
+  font-family: "Pokemon Solid", sans-serif;
+  font-size: 1.5em;
+}
+
+.card p {
+  margin: 10px;
+}
+
+#kanto {
+  color: rgb(224, 32, 32);
+}
+
+#johto {
+  color: rgb(29, 151, 111);
+}
+
+#hoenn {
+  color: rgb(10, 116, 216);
+}
+
+.card img {
+  margin: 20px;
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.card a {
+  color: rgb(237, 237, 244);
+  background-color: rgb(89, 89, 155);
+  padding: 8px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  margin-top: 100px;
+  color: white;
+  background-color: rgb(89, 89, 155);
+}
