@@ -30,19 +30,43 @@
     <hr />
 
     <main>
-      <h1>Professor's PokéDesk - Kanto ( Geração 1 )</h1>
-      <h2>Notas do Professor sobre a Região:</h2>
-      <p class="description">
-        Kanto é a primeira região apresentada no mundo de Pokémon, cenário das
-        aventuras de Pokémon Red, Blue, Yellow e seus remakes. Kanto possui uma
-        grande diversidade de ambientes, desde cidades movimentadas, florestas,
-        cavernas, montanhas e oceanos. A região conta com oito Ginásios Pokémon,
-        a Elite dos Quatro e uma variedade enorme de Pokémon, sendo o lar dos
-        151 Pokémon da primeira geração.
-      </p>
+      <h1 id="main-title">Kanto</h1>
+      <h1 id="subtitle">Região #01 · 151 Pokémon</h1>
+      <div class="content-container">
+        <div class="main-image-wrapper">
+          <img src="imgs/kanto/kanto.jpeg" alt="Kanto.jpeg" id="main-image" />
+        </div>
 
-      <div class="container">
-        <section class="section1">
+        <div class="description-container">
+          <h2>Notas do Professor sobre a Região:</h2>
+          <div class="description">
+            <p>
+              " <span id="kanto">Kanto !</span> Um ótimo lugar para começar uma
+              jornada Pokémon. A região é muito mais diversa do que parece —
+              temos cidades movimentadas, florestas, cavernas, montanhas e até
+              grandes áreas oceânicas!
+            </p>
+
+            <p>
+              Existem muitos Pokémon diferentes vivendo por toda a região, e
+              cada ambiente é lar de espécies com características diferentes. No
+              total, 151 espécies de Pokémon já foram registradas nas Pokedéx
+              por aqui!
+            </p>
+
+            <p>
+              Não pense que a jornada será fácil! Kanto possui oito Ginásios
+              Pokémon, cada um com seus próprios desafios, além da Elite dos
+              Quatro, que reúne alguns dos treinadores mais habilidosos da
+              região."
+            </p>
+            <span id="professor"> — Prof. Oak</span>
+          </div>
+        </div>
+      </div>
+
+      <section class="section1">
+        <div id="filter">
           <input
             type="search"
             id="search-bar"
@@ -56,35 +80,35 @@
             <input type="checkbox" id="lendario" />
             <label for="lendario">Lendário</label>
           </div>
+        </div>
 
-          <select name="types" id="type-selection">
-            <option value="">Todos tipos</option>
-            <option value="agua">Água</option>
-            <option value="dragao">Dragão</option>
-            <option value="eletrico">Elétrico</option>
-            <option value="fada">Fada</option>
-            <option value="fantasma">Fantasma</option>
-            <option value="fogo">Fogo</option>
-            <option value="gelo">Gelo</option>
-            <option value="inseto">Inseto</option>
-            <option value="lutador">Lutador</option>
-            <option value="metal">Metal</option>
-            <option value="normal">Normal</option>
-            <option value="pedra">Pedra</option>
-            <option value="planta">Planta</option>
-            <option value="psiquico">Psíquico</option>
-            <option value="terrestre">Terrestre</option>
-            <option value="veneno">Veneno</option>
-            <option value="voador">Voador</option>
-          </select>
-        </section>
+        <select name="types" id="type-selection">
+          <option value="">Todos tipos</option>
+          <option value="agua">Água</option>
+          <option value="dragao">Dragão</option>
+          <option value="eletrico">Elétrico</option>
+          <option value="fada">Fada</option>
+          <option value="fantasma">Fantasma</option>
+          <option value="fogo">Fogo</option>
+          <option value="gelo">Gelo</option>
+          <option value="inseto">Inseto</option>
+          <option value="lutador">Lutador</option>
+          <option value="metal">Metal</option>
+          <option value="normal">Normal</option>
+          <option value="pedra">Pedra</option>
+          <option value="planta">Planta</option>
+          <option value="psiquico">Psíquico</option>
+          <option value="terrestre">Terrestre</option>
+          <option value="veneno">Veneno</option>
+          <option value="voador">Voador</option>
+        </select>
+      </section>
 
-        <section class="section2">
-          <div id="pokemon-list"></div>
-        </section>
-      </div>
+      <section class="section2">
+        <div id="pokemon-list"></div>
+      </section>
     </main>
 
-    <footer>© Pokedex, Lucas C. Girata, 2026</footer>
+    <footer>© Professor's PokéDesk, Lucas C. Girata, 2026</footer>
   </body>
 </html>
