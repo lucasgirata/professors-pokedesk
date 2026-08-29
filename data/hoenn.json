@@ -5,7 +5,7 @@
     "tipos": ["Planta"],
     "inicial": true,
     "lendario": false,
-    "imagem": "../imgs/johto/252.png"
+    "imagem": "../imgs/hoenn/252.png"
   },
   {
     "id": 253,
@@ -13,7 +13,7 @@
     "tipos": ["Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/253.png"
+    "imagem": "../imgs/hoenn/253.png"
   },
   {
     "id": 254,
@@ -21,7 +21,7 @@
     "tipos": ["Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/254.png"
+    "imagem": "../imgs/hoenn/254.png"
   },
   {
     "id": 255,
@@ -29,7 +29,7 @@
     "tipos": ["Fogo"],
     "inicial": true,
     "lendario": false,
-    "imagem": "../imgs/johto/255.png"
+    "imagem": "../imgs/hoenn/255.png"
   },
   {
     "id": 256,
@@ -37,7 +37,7 @@
     "tipos": ["Fogo", "Lutador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/256.png"
+    "imagem": "../imgs/hoenn/256.png"
   },
   {
     "id": 257,
@@ -45,7 +45,7 @@
     "tipos": ["Fogo", "Lutador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/257.png"
+    "imagem": "../imgs/hoenn/257.png"
   },
   {
     "id": 258,
@@ -53,7 +53,7 @@
     "tipos": ["Água"],
     "inicial": true,
     "lendario": false,
-    "imagem": "../imgs/johto/258.png"
+    "imagem": "../imgs/hoenn/258.png"
   },
   {
     "id": 259,
@@ -61,7 +61,7 @@
     "tipos": ["Água", "Terrestre"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/259.png"
+    "imagem": "../imgs/hoenn/259.png"
   },
   {
     "id": 260,
@@ -69,7 +69,7 @@
     "tipos": ["Água", "Terrestre"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/260.png"
+    "imagem": "../imgs/hoenn/260.png"
   },
   {
     "id": 261,
@@ -77,7 +77,7 @@
     "tipos": ["Sombrio"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/261.png"
+    "imagem": "../imgs/hoenn/261.png"
   },
   {
     "id": 262,
@@ -85,7 +85,7 @@
     "tipos": ["Sombrio"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/262.png"
+    "imagem": "../imgs/hoenn/262.png"
   },
   {
     "id": 263,
@@ -93,7 +93,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/263.png"
+    "imagem": "../imgs/hoenn/263.png"
   },
   {
     "id": 264,
@@ -101,7 +101,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/264.png"
+    "imagem": "../imgs/hoenn/264.png"
   },
   {
     "id": 265,
@@ -109,7 +109,7 @@
     "tipos": ["Inseto"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/265.png"
+    "imagem": "../imgs/hoenn/265.png"
   },
   {
     "id": 266,
@@ -117,7 +117,7 @@
     "tipos": ["Inseto"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/266.png"
+    "imagem": "../imgs/hoenn/266.png"
   },
   {
     "id": 267,
@@ -125,7 +125,7 @@
     "tipos": ["Inseto", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/267.png"
+    "imagem": "../imgs/hoenn/267.png"
   },
   {
     "id": 268,
@@ -133,7 +133,7 @@
     "tipos": ["Inseto"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/268.png"
+    "imagem": "../imgs/hoenn/268.png"
   },
   {
     "id": 269,
@@ -141,7 +141,7 @@
     "tipos": ["Inseto", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/269.png"
+    "imagem": "../imgs/hoenn/269.png"
   },
   {
     "id": 270,
@@ -149,7 +149,7 @@
     "tipos": ["Água", "Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/270.png"
+    "imagem": "../imgs/hoenn/270.png"
   },
   {
     "id": 271,
@@ -157,7 +157,7 @@
     "tipos": ["Água", "Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/271.png"
+    "imagem": "../imgs/hoenn/271.png"
   },
   {
     "id": 272,
@@ -165,7 +165,7 @@
     "tipos": ["Água", "Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/272.png"
+    "imagem": "../imgs/hoenn/272.png"
   },
   {
     "id": 273,
@@ -173,7 +173,7 @@
     "tipos": ["Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/273.png"
+    "imagem": "../imgs/hoenn/273.png"
   },
   {
     "id": 274,
@@ -181,7 +181,7 @@
     "tipos": ["Planta", "Sombrio"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/274.png"
+    "imagem": "../imgs/hoenn/274.png"
   },
   {
     "id": 275,
@@ -189,7 +189,7 @@
     "tipos": ["Planta", "Sombrio"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/275.png"
+    "imagem": "../imgs/hoenn/275.png"
   },
   {
     "id": 276,
@@ -197,7 +197,7 @@
     "tipos": ["Normal", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/276.png"
+    "imagem": "../imgs/hoenn/276.png"
   },
   {
     "id": 277,
@@ -205,7 +205,7 @@
     "tipos": ["Normal", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/277.png"
+    "imagem": "../imgs/hoenn/277.png"
   },
   {
     "id": 278,
@@ -213,7 +213,7 @@
     "tipos": ["Água", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/278.png"
+    "imagem": "../imgs/hoenn/278.png"
   },
   {
     "id": 279,
@@ -221,7 +221,7 @@
     "tipos": ["Água", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/279.png"
+    "imagem": "../imgs/hoenn/279.png"
   },
   {
     "id": 280,
@@ -229,7 +229,7 @@
     "tipos": ["Psíquico", "Fada"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/280.png"
+    "imagem": "../imgs/hoenn/280.png"
   },
   {
     "id": 281,
@@ -237,7 +237,7 @@
     "tipos": ["Psíquico", "Fada"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/281.png"
+    "imagem": "../imgs/hoenn/281.png"
   },
   {
     "id": 282,
@@ -245,7 +245,7 @@
     "tipos": ["Psíquico", "Fada"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/282.png"
+    "imagem": "../imgs/hoenn/282.png"
   },
   {
     "id": 283,
@@ -253,7 +253,7 @@
     "tipos": ["Inseto", "Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/283.png"
+    "imagem": "../imgs/hoenn/283.png"
   },
   {
     "id": 284,
@@ -261,7 +261,7 @@
     "tipos": ["Inseto", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/284.png"
+    "imagem": "../imgs/hoenn/284.png"
   },
   {
     "id": 285,
@@ -269,7 +269,7 @@
     "tipos": ["Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/285.png"
+    "imagem": "../imgs/hoenn/285.png"
   },
   {
     "id": 286,
@@ -277,7 +277,7 @@
     "tipos": ["Planta", "Lutador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/286.png"
+    "imagem": "../imgs/hoenn/286.png"
   },
   {
     "id": 287,
@@ -285,7 +285,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/287.png"
+    "imagem": "../imgs/hoenn/287.png"
   },
   {
     "id": 288,
@@ -293,7 +293,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/288.png"
+    "imagem": "../imgs/hoenn/288.png"
   },
   {
     "id": 289,
@@ -301,7 +301,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/289.png"
+    "imagem": "../imgs/hoenn/289.png"
   },
   {
     "id": 290,
@@ -309,7 +309,7 @@
     "tipos": ["Inseto", "Terrestre"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/290.png"
+    "imagem": "../imgs/hoenn/290.png"
   },
   {
     "id": 291,
@@ -317,7 +317,7 @@
     "tipos": ["Inseto", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/291.png"
+    "imagem": "../imgs/hoenn/291.png"
   },
   {
     "id": 292,
@@ -325,7 +325,7 @@
     "tipos": ["Inseto", "Fantasma"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/292.png"
+    "imagem": "../imgs/hoenn/292.png"
   },
   {
     "id": 293,
@@ -333,7 +333,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/293.png"
+    "imagem": "../imgs/hoenn/293.png"
   },
   {
     "id": 294,
@@ -341,7 +341,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/294.png"
+    "imagem": "../imgs/hoenn/294.png"
   },
   {
     "id": 295,
@@ -349,7 +349,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/295.png"
+    "imagem": "../imgs/hoenn/295.png"
   },
   {
     "id": 296,
@@ -357,7 +357,7 @@
     "tipos": ["Lutador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/296.png"
+    "imagem": "../imgs/hoenn/296.png"
   },
   {
     "id": 297,
@@ -365,7 +365,7 @@
     "tipos": ["Lutador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/297.png"
+    "imagem": "../imgs/hoenn/297.png"
   },
   {
     "id": 298,
@@ -373,7 +373,7 @@
     "tipos": ["Normal", "Fada"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/298.png"
+    "imagem": "../imgs/hoenn/298.png"
   },
   {
     "id": 299,
@@ -381,7 +381,7 @@
     "tipos": ["Pedra"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/299.png"
+    "imagem": "../imgs/hoenn/299.png"
   },
   {
     "id": 300,
@@ -389,7 +389,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/300.png"
+    "imagem": "../imgs/hoenn/300.png"
   },
   {
     "id": 301,
@@ -397,7 +397,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/301.png"
+    "imagem": "../imgs/hoenn/301.png"
   },
   {
     "id": 302,
@@ -405,7 +405,7 @@
     "tipos": ["Sombrio", "Fantasma"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/302.png"
+    "imagem": "../imgs/hoenn/302.png"
   },
   {
     "id": 303,
@@ -413,7 +413,7 @@
     "tipos": ["Metal", "Fada"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/303.png"
+    "imagem": "../imgs/hoenn/303.png"
   },
   {
     "id": 304,
@@ -421,7 +421,7 @@
     "tipos": ["Metal", "Pedra"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/304.png"
+    "imagem": "../imgs/hoenn/304.png"
   },
   {
     "id": 305,
@@ -429,7 +429,7 @@
     "tipos": ["Metal", "Pedra"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/305.png"
+    "imagem": "../imgs/hoenn/305.png"
   },
   {
     "id": 306,
@@ -437,7 +437,7 @@
     "tipos": ["Metal", "Pedra"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/306.png"
+    "imagem": "../imgs/hoenn/306.png"
   },
   {
     "id": 307,
@@ -445,7 +445,7 @@
     "tipos": ["Lutador", "Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/307.png"
+    "imagem": "../imgs/hoenn/307.png"
   },
   {
     "id": 308,
@@ -453,7 +453,7 @@
     "tipos": ["Lutador", "Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/308.png"
+    "imagem": "../imgs/hoenn/308.png"
   },
   {
     "id": 309,
@@ -461,7 +461,7 @@
     "tipos": ["Elétrico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/309.png"
+    "imagem": "../imgs/hoenn/309.png"
   },
   {
     "id": 310,
@@ -469,7 +469,7 @@
     "tipos": ["Elétrico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/310.png"
+    "imagem": "../imgs/hoenn/310.png"
   },
   {
     "id": 311,
@@ -477,7 +477,7 @@
     "tipos": ["Elétrico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/311.png"
+    "imagem": "../imgs/hoenn/311.png"
   },
   {
     "id": 312,
@@ -485,7 +485,7 @@
     "tipos": ["Elétrico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/312.png"
+    "imagem": "../imgs/hoenn/312.png"
   },
   {
     "id": 313,
@@ -493,7 +493,7 @@
     "tipos": ["Inseto"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/313.png"
+    "imagem": "../imgs/hoenn/313.png"
   },
   {
     "id": 314,
@@ -501,7 +501,7 @@
     "tipos": ["Inseto"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/314.png"
+    "imagem": "../imgs/hoenn/314.png"
   },
   {
     "id": 315,
@@ -509,7 +509,7 @@
     "tipos": ["Planta", "Veneno"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/315.png"
+    "imagem": "../imgs/hoenn/315.png"
   },
   {
     "id": 316,
@@ -517,7 +517,7 @@
     "tipos": ["Veneno"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/316.png"
+    "imagem": "../imgs/hoenn/316.png"
   },
   {
     "id": 317,
@@ -525,7 +525,7 @@
     "tipos": ["Veneno"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/317.png"
+    "imagem": "../imgs/hoenn/317.png"
   },
   {
     "id": 318,
@@ -533,7 +533,7 @@
     "tipos": ["Água", "Sombrio"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/318.png"
+    "imagem": "../imgs/hoenn/318.png"
   },
   {
     "id": 319,
@@ -541,7 +541,7 @@
     "tipos": ["Água", "Sombrio"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/319.png"
+    "imagem": "../imgs/hoenn/319.png"
   },
   {
     "id": 320,
@@ -549,7 +549,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/320.png"
+    "imagem": "../imgs/hoenn/320.png"
   },
   {
     "id": 321,
@@ -557,7 +557,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/321.png"
+    "imagem": "../imgs/hoenn/321.png"
   },
   {
     "id": 322,
@@ -565,7 +565,7 @@
     "tipos": ["Fogo", "Terrestre"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/322.png"
+    "imagem": "../imgs/hoenn/322.png"
   },
   {
     "id": 323,
@@ -573,7 +573,7 @@
     "tipos": ["Fogo", "Terrestre"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/323.png"
+    "imagem": "../imgs/hoenn/323.png"
   },
   {
     "id": 324,
@@ -581,7 +581,7 @@
     "tipos": ["Fogo"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/324.png"
+    "imagem": "../imgs/hoenn/324.png"
   },
   {
     "id": 325,
@@ -589,7 +589,7 @@
     "tipos": ["Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/325.png"
+    "imagem": "../imgs/hoenn/325.png"
   },
   {
     "id": 326,
@@ -597,7 +597,7 @@
     "tipos": ["Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/326.png"
+    "imagem": "../imgs/hoenn/326.png"
   },
   {
     "id": 327,
@@ -605,7 +605,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/327.png"
+    "imagem": "../imgs/hoenn/327.png"
   },
   {
     "id": 328,
@@ -613,7 +613,7 @@
     "tipos": ["Terrestre"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/328.png"
+    "imagem": "../imgs/hoenn/328.png"
   },
   {
     "id": 329,
@@ -621,7 +621,7 @@
     "tipos": ["Terrestre", "Dragão"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/323.png"
+    "imagem": "../imgs/hoenn/323.png"
   },
   {
     "id": 330,
@@ -629,7 +629,7 @@
     "tipos": ["Terrestre", "Dragão"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/330.png"
+    "imagem": "../imgs/hoenn/330.png"
   },
   {
     "id": 331,
@@ -637,7 +637,7 @@
     "tipos": ["Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/331.png"
+    "imagem": "../imgs/hoenn/331.png"
   },
   {
     "id": 332,
@@ -645,7 +645,7 @@
     "tipos": ["Planta", "Sombrio"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/332.png"
+    "imagem": "../imgs/hoenn/332.png"
   },
   {
     "id": 333,
@@ -653,7 +653,7 @@
     "tipos": ["Normal", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/333.png"
+    "imagem": "../imgs/hoenn/333.png"
   },
   {
     "id": 334,
@@ -661,7 +661,7 @@
     "tipos": ["Dragão", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/334.png"
+    "imagem": "../imgs/hoenn/334.png"
   },
   {
     "id": 335,
@@ -669,7 +669,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/335.png"
+    "imagem": "../imgs/hoenn/335.png"
   },
   {
     "id": 336,
@@ -677,7 +677,7 @@
     "tipos": ["Veneno"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/336.png"
+    "imagem": "../imgs/hoenn/336.png"
   },
   {
     "id": 337,
@@ -685,7 +685,7 @@
     "tipos": ["Pedra", "Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/337.png"
+    "imagem": "../imgs/hoenn/337.png"
   },
   {
     "id": 338,
@@ -693,7 +693,7 @@
     "tipos": ["Pedra", "Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/338.png"
+    "imagem": "../imgs/hoenn/338.png"
   },
   {
     "id": 339,
@@ -701,7 +701,7 @@
     "tipos": ["Água", "Terrestre"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/339.png"
+    "imagem": "../imgs/hoenn/339.png"
   },
   {
     "id": 340,
@@ -709,7 +709,7 @@
     "tipos": ["Água", "Terrestre"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/340.png"
+    "imagem": "../imgs/hoenn/340.png"
   },
   {
     "id": 341,
@@ -717,7 +717,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/341.png"
+    "imagem": "../imgs/hoenn/341.png"
   },
   {
     "id": 342,
@@ -725,7 +725,7 @@
     "tipos": ["Água", "Sombrio"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/342.png"
+    "imagem": "../imgs/hoenn/342.png"
   },
   {
     "id": 343,
@@ -733,7 +733,7 @@
     "tipos": ["Terrestre", "Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/343.png"
+    "imagem": "../imgs/hoenn/343.png"
   },
   {
     "id": 344,
@@ -741,7 +741,7 @@
     "tipos": ["Terrestre", "Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/344.png"
+    "imagem": "../imgs/hoenn/344.png"
   },
   {
     "id": 345,
@@ -749,7 +749,7 @@
     "tipos": ["Pedra", "Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/345.png"
+    "imagem": "../imgs/hoenn/345.png"
   },
   {
     "id": 346,
@@ -757,7 +757,7 @@
     "tipos": ["Pedra", "Planta"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/346.png"
+    "imagem": "../imgs/hoenn/346.png"
   },
   {
     "id": 347,
@@ -765,7 +765,7 @@
     "tipos": ["Pedra", "Inseto"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/347.png"
+    "imagem": "../imgs/hoenn/347.png"
   },
   {
     "id": 348,
@@ -773,7 +773,7 @@
     "tipos": ["Pedra", "Inseto"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/348.png"
+    "imagem": "../imgs/hoenn/348.png"
   },
   {
     "id": 349,
@@ -781,7 +781,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/349.png"
+    "imagem": "../imgs/hoenn/349.png"
   },
   {
     "id": 350,
@@ -789,7 +789,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/350.png"
+    "imagem": "../imgs/hoenn/350.png"
   },
   {
     "id": 351,
@@ -797,7 +797,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/351.png"
+    "imagem": "../imgs/hoenn/351.png"
   },
   {
     "id": 352,
@@ -805,7 +805,7 @@
     "tipos": ["Normal"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/352.png"
+    "imagem": "../imgs/hoenn/352.png"
   },
   {
     "id": 353,
@@ -813,7 +813,7 @@
     "tipos": ["Fantasma"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/353.png"
+    "imagem": "../imgs/hoenn/353.png"
   },
   {
     "id": 354,
@@ -821,7 +821,7 @@
     "tipos": ["Fantasma"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/354.png"
+    "imagem": "../imgs/hoenn/354.png"
   },
   {
     "id": 355,
@@ -829,7 +829,7 @@
     "tipos": ["Fantasma"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/355.png"
+    "imagem": "../imgs/hoenn/355.png"
   },
   {
     "id": 356,
@@ -837,7 +837,7 @@
     "tipos": ["Fantasma"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/356.png"
+    "imagem": "../imgs/hoenn/356.png"
   },
   {
     "id": 357,
@@ -845,7 +845,7 @@
     "tipos": ["Planta", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/357.png"
+    "imagem": "../imgs/hoenn/357.png"
   },
   {
     "id": 358,
@@ -853,7 +853,7 @@
     "tipos": ["Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/358.png"
+    "imagem": "../imgs/hoenn/358.png"
   },
   {
     "id": 359,
@@ -861,7 +861,7 @@
     "tipos": ["Sombrio"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/359.png"
+    "imagem": "../imgs/hoenn/359.png"
   },
   {
     "id": 360,
@@ -869,7 +869,7 @@
     "tipos": ["Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/360.png"
+    "imagem": "../imgs/hoenn/360.png"
   },
   {
     "id": 361,
@@ -877,7 +877,7 @@
     "tipos": ["Gelo"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/361.png"
+    "imagem": "../imgs/hoenn/361.png"
   },
   {
     "id": 362,
@@ -885,7 +885,7 @@
     "tipos": ["Gelo"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/362.png"
+    "imagem": "../imgs/hoenn/362.png"
   },
   {
     "id": 363,
@@ -893,7 +893,7 @@
     "tipos": ["Gelo", "Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/363.png"
+    "imagem": "../imgs/hoenn/363.png"
   },
   {
     "id": 364,
@@ -901,7 +901,7 @@
     "tipos": ["Gelo", "Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/364.png"
+    "imagem": "../imgs/hoenn/364.png"
   },
   {
     "id": 365,
@@ -909,7 +909,7 @@
     "tipos": ["Gelo", "Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/365.png"
+    "imagem": "../imgs/hoenn/365.png"
   },
   {
     "id": 366,
@@ -917,7 +917,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/366.png"
+    "imagem": "../imgs/hoenn/366.png"
   },
   {
     "id": 367,
@@ -925,7 +925,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/367.png"
+    "imagem": "../imgs/hoenn/367.png"
   },
   {
     "id": 368,
@@ -933,7 +933,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/368.png"
+    "imagem": "../imgs/hoenn/368.png"
   },
   {
     "id": 369,
@@ -941,7 +941,7 @@
     "tipos": ["Água", "Pedra"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/369.png"
+    "imagem": "../imgs/hoenn/369.png"
   },
   {
     "id": 370,
@@ -949,7 +949,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/370.png"
+    "imagem": "../imgs/hoenn/370.png"
   },
   {
     "id": 371,
@@ -957,7 +957,7 @@
     "tipos": ["Dragão"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/371.png"
+    "imagem": "../imgs/hoenn/371.png"
   },
   {
     "id": 372,
@@ -965,7 +965,7 @@
     "tipos": ["Dragão"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/372.png"
+    "imagem": "../imgs/hoenn/372.png"
   },
   {
     "id": 373,
@@ -973,7 +973,7 @@
     "tipos": ["Dragão", "Voador"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/373.png"
+    "imagem": "../imgs/hoenn/373.png"
   },
   {
     "id": 374,
@@ -981,7 +981,7 @@
     "tipos": ["Metal", "Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/374.png"
+    "imagem": "../imgs/hoenn/374.png"
   },
   {
     "id": 375,
@@ -989,7 +989,7 @@
     "tipos": ["Metal", "Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/375.png"
+    "imagem": "../imgs/hoenn/375.png"
   },
   {
     "id": 376,
@@ -997,7 +997,7 @@
     "tipos": ["Metal", "Psíquico"],
     "inicial": false,
     "lendario": false,
-    "imagem": "../imgs/johto/376.png"
+    "imagem": "../imgs/hoenn/376.png"
   },
   {
     "id": 377,
@@ -1005,7 +1005,7 @@
     "tipos": ["Pedra"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/377.png"
+    "imagem": "../imgs/hoenn/377.png"
   },
   {
     "id": 378,
@@ -1013,7 +1013,7 @@
     "tipos": ["Gelo"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/378.png"
+    "imagem": "../imgs/hoenn/378.png"
   },
   {
     "id": 379,
@@ -1021,7 +1021,7 @@
     "tipos": ["Metal"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/379.png"
+    "imagem": "../imgs/hoenn/379.png"
   },
   {
     "id": 380,
@@ -1029,7 +1029,7 @@
     "tipos": ["Dragão", "Psíquico"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/380.png"
+    "imagem": "../imgs/hoenn/380.png"
   },
   {
     "id": 381,
@@ -1037,7 +1037,7 @@
     "tipos": ["Dragão", "Psíquico"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/381.png"
+    "imagem": "../imgs/hoenn/381.png"
   },
   {
     "id": 382,
@@ -1045,7 +1045,7 @@
     "tipos": ["Água"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/382.png"
+    "imagem": "../imgs/hoenn/382.png"
   },
   {
     "id": 383,
@@ -1053,7 +1053,7 @@
     "tipos": ["Terrestre"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/383.png"
+    "imagem": "../imgs/hoenn/383.png"
   },
   {
     "id": 384,
@@ -1061,7 +1061,7 @@
     "tipos": ["Dragão", "Voador"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/384.png"
+    "imagem": "../imgs/hoenn/384.png"
   },
   {
     "id": 385,
@@ -1069,7 +1069,7 @@
     "tipos": ["Metal", "Psíquico"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/385.png"
+    "imagem": "../imgs/hoenn/385.png"
   },
   {
     "id": 386,
@@ -1077,6 +1077,6 @@
     "tipos": ["Psíquico"],
     "inicial": false,
     "lendario": true,
-    "imagem": "../imgs/johto/386.png"
+    "imagem": "../imgs/hoenn/386.png"
   }
 ]

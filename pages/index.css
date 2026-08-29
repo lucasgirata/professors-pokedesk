@@ -58,7 +58,7 @@ hr {
 }
 
 main hr {
-  margin: 0 auto;
+  margin: 30px auto;
   width: 800px;
 }
 
@@ -150,7 +150,7 @@ main hr {
 }
 
 .section2 {
-  margin: 0 auto;
+  margin: 30px auto;
   align-items: center;
   justify-content: center;
 }
@@ -209,9 +209,12 @@ main hr {
 }
 
 .card img {
-  margin: 20px;
-  width: 200px;
-  height: auto;
+  margin: 30px;
+  width: 220px;
+  aspect-ratio: 1 / 1;
+  filter: brightness(0.7);
+  object-fit: cover;
+  display: block;
   border-radius: 10px;
 }
 
@@ -222,6 +225,69 @@ main hr {
   border-radius: 5px;
   text-decoration: none;
   font-weight: bold;
+}
+
+.section2 hr {
+  margin: 50px auto;
+}
+
+.section3 {
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+}
+
+.section3 h1 {
+  font-family: "Pokemon Solid", sans-serif;
+  font-size: 3em;
+  color: rgb(62, 62, 112);
+  margin: 20px;
+}
+
+.section3 img {
+  margin: 20px;
+  width: 120px;
+  height: auto;
+  transition: 0.2s;
+}
+
+.img-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.img-wrapper img {
+  transition:
+    opacity 0.3s ease,
+    scale 0.3s ease;
+}
+
+.img-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.img-wrapper:hover img {
+  scale: 1.15;
+  cursor: pointer;
+}
+
+.img-wrapper:hover .img-normal {
+  opacity: 0;
+}
+
+.img-wrapper:hover .img-hover {
+  opacity: 1;
+}
+
+.desk {
+  width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgb(77, 60, 35);
 }
 
 footer {

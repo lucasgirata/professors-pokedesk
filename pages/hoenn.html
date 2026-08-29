@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hoenn - Professor's PokéDesk</title>
+    <link rel="stylesheet" href="hoenn.css" />
+    <link
+      href="https://fonts.cdnfonts.com/css/pokemon-solid-2"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/png" href="imgs/pokedex.webp" />
+    <script src="hoenn.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <a href="index.html" id="logo">
+        <img src="../imgs/pokedex.webp" alt="logo_pokedex" />
+        <h2>Professor's PokéDesk</h2>
+      </a>
+      <nav>
+        <a href="./index.html">Página Inicial</a>
+        <a href="./kanto.html">Kanto</a>
+        <a href="./johto.html">Johto</a>
+        <a href="./hoenn.html">Hoenn</a>
+        <a href="./time.html">Meu time</a>
+      </nav>
+    </header>
+
+    <hr />
+
+    <main>
+      <h1 id="main-title">Hoenn</h1>
+      <h1 id="subtitle">Região #03 · 135 Pokémon</h1>
+      <div class="content-container">
+        <div class="main-image-wrapper">
+          <img src="../imgs/hoenn/hoenn.jpg" alt="Hoenn" id="main-image" />
+        </div>
+
+        <div class="description-container">
+          <h2>Notas do Professor sobre a Região:</h2>
+          <div class="description">
+            <p>
+              " <span id="hoenn">Hoenn !</span> Uma região cheia de história,
+              tradição e muitos Pokémon fascinantes. Por aqui, podemos encontrar
+              cidades tranquilas, florestas densas, montanhas, cavernas e até
+              antigas construções que guardam histórias de muitos anos!
+            </p>
+
+            <p>
+              Muitos Pokémon diferentes vivem por essa região, e alguns possuem
+              formas de evolução e comportamentos bastante curiosos. No total,
+              100 novas espécies de Pokémon foram registradas em Johto,
+              aumentando ainda mais o conhecimento sobre essas criaturas!
+            </p>
+
+            <p>
+              Se você pretende explorar <span id="hoenn">Hoenn</span>,
+              prepare-se para encontrar Pokémon que talvez nunca tenha visto
+              antes! Observe bem cada canto da região, converse com os moradores
+              e não deixe de visitar os locais mais antigos. Tenho certeza de
+              que você encontrará muitas descobertas interessantes pelo caminho!
+            </p>
+            <span id="professor"> — Prof. Birch</span>
+          </div>
+        </div>
+      </div>
+
+      <section class="section1">
+        <div id="filter">
+          <input
+            type="search"
+            id="search-bar"
+            placeholder="Pesquise um Pokemon"
+          />
+
+          <div class="boxes">
+            <input type="checkbox" id="iniciais" />
+            <label for="iniciais">Inícial </label>
+
+            <input type="checkbox" id="lendario" />
+            <label for="lendario">Lendário</label>
+          </div>
+        </div>
+
+        <select name="types" id="type-selection">
+          <option value="">Todos tipos</option>
+          <option value="agua">Água</option>
+          <option value="dragao">Dragão</option>
+          <option value="eletrico">Elétrico</option>
+          <option value="fada">Fada</option>
+          <option value="fantasma">Fantasma</option>
+          <option value="fogo">Fogo</option>
+          <option value="gelo">Gelo</option>
+          <option value="inseto">Inseto</option>
+          <option value="lutador">Lutador</option>
+          <option value="metal">Metal</option>
+          <option value="normal">Normal</option>
+          <option value="pedra">Pedra</option>
+          <option value="planta">Planta</option>
+          <option value="psiquico">Psíquico</option>
+          <option value="sombrio">Sombrio</option>
+          <option value="terrestre">Terrestre</option>
+          <option value="veneno">Veneno</option>
+          <option value="voador">Voador</option>
+        </select>
+      </section>
+
+      <section class="section2">
+        <div id="pokemon-list"></div>
+      </section>
+    </main>
+
+    <footer>© Professor's PokéDesk, Lucas C. Girata, 2026</footer>
+  </body>
+</html>
