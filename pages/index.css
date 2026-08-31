@@ -257,6 +257,7 @@ main hr {
 }
 
 .img-wrapper img {
+  display: block;
   transition:
     opacity 0.3s ease,
     scale 0.3s ease;
@@ -282,12 +283,38 @@ main hr {
   opacity: 1;
 }
 
+.input-overlay {
+  text-decoration: none;
+  color: black;
+  background-color: rgb(128, 128, 212);
+  border: none;
+  border-radius: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  visibility: hidden;
+  transition: 0.1s ease;
+  padding: 3px 8px;
+  cursor: pointer;
+}
+
+.input-overlay:hover {
+  background-color: rgb(88, 88, 155);
+}
+
+.img-wrapper:hover .input-overlay {
+  opacity: 1;
+  visibility: visible;
+}
+
 .desk {
   width: 700px;
   margin: 0 auto;
   padding: 20px;
   border-radius: 10px;
-  background-color: rgb(77, 60, 35);
+  background-color: rgb(71, 45, 8);
 }
 
 footer {
