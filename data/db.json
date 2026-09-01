@@ -1,0 +1,14 @@
+{
+  "team": {
+    "id": 1,
+    "slots": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}

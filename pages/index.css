@@ -158,7 +158,7 @@ main hr {
 .section2 h1 {
   font-family: "Pokemon Solid", sans-serif;
   font-size: 3em;
-  color: rgb(172, 34, 34);
+  color: rgb(88, 88, 155);
   margin: 20px;
 }
 
@@ -196,18 +196,6 @@ main hr {
   margin: 10px;
 }
 
-#kanto {
-  color: rgb(224, 32, 32);
-}
-
-#johto {
-  color: rgb(29, 151, 111);
-}
-
-#hoenn {
-  color: rgb(10, 116, 216);
-}
-
 .card img {
   margin: 30px;
   width: 220px;
@@ -241,7 +229,12 @@ main hr {
   font-family: "Pokemon Solid", sans-serif;
   font-size: 3em;
   color: rgb(62, 62, 112);
+  margin: 40px;
+}
+
+.section3 h2 {
   margin: 20px;
+  color: rgb(88, 88, 155);
 }
 
 .section3 img {
@@ -285,8 +278,9 @@ main hr {
 
 .input-overlay {
   text-decoration: none;
-  color: black;
-  background-color: rgb(128, 128, 212);
+  font-weight: bold;
+  color: white;
+  background-color: rgb(73, 73, 97);
   border: none;
   border-radius: 3px;
   position: absolute;
@@ -301,7 +295,7 @@ main hr {
 }
 
 .input-overlay:hover {
-  background-color: rgb(88, 88, 155);
+  background-color: rgb(108, 108, 138);
 }
 
 .img-wrapper:hover .input-overlay {
@@ -311,10 +305,10 @@ main hr {
 
 .desk {
   width: 700px;
-  margin: 0 auto;
+  margin: 50px auto;
   padding: 20px;
   border-radius: 10px;
-  background-color: rgb(71, 45, 8);
+  background-color: rgb(164, 164, 192);
 }
 
 footer {

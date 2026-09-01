@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PokéTeam - Professor's PokéDesk</title>
+    <link rel="stylesheet" href="poketeam.css" />
+    <link rel="icon" type="image/x-icon" href="../imgs/pokedex.webp" />
+    <script src="poketeam.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <a href="index.html" id="logo">
+        <img src="../imgs/pokedex.webp" alt="logo_pokedex" />
+        <h2>Professor's PokéDesk</h2>
+      </a>
+      <nav>
+        <a href="index.html">Página Inicial</a>
+        <a href="poketeam.html">PokéTeam</a>
+        <a href="kanto.html">Kanto</a>
+        <a href="johto.html">Johto</a>
+        <a href="hoenn.html">Hoenn</a>
+      </nav>
+    </header>
+
+    <hr />
+
+    <main>
+      <section class="section1">
+        <h1>PokéTeam</h1>
+        <h2>Sua equipe Pokémon está pronta?</h2>
+        <h3>
+          Escolha até 6 companheiros e forme sua equipe com seus favoritos!
+        </h3>
+
+        <div class="notes">
+          <h2>Notas do Professor:</h2>
+          <p>
+            "Para alguns, escolher os Pokémons que vão te acompanhar durante a
+            jornada não é fácil! Por isso, se lembre que uma boa equipe não
+            depende apenas da força de cada um.
+          </p>
+          <p>
+            Cada Pokémon tem sua característica e eles podem trabalhar juntos.
+            Uma equipe equilibrada pode ser muito útil nas batalhas, mas a
+            verdadeira força é a parceria entre o treinador e sua equipe!"
+          </p>
+          <p id="professor">- Prof. Oak</p>
+        </div>
+      </section>
+
+      <section class="section3">
+        <h1>Minha Equipe</h1>
+
+        <div class="team">
+          <div class="pokemon" data-slot="0" data-filled="false">
+            <img src="../imgs/index/open-pokeball.png" alt="Pokeball" />
+            <button>Remover</button>
+          </div>
+          <div class="pokemon" data-slot="1" data-filled="false">
+            <img src="../imgs/index/open-pokeball.png" alt="Pokeball" />
+            <button>Remover</button>
+          </div>
+          <div class="pokemon" data-slot="2" data-filled="false">
+            <img src="../imgs/index/open-pokeball.png" alt="Pokeball" />
+            <button>Remover</button>
+          </div>
+          <div class="pokemon" data-slot="3" data-filled="false">
+            <img src="../imgs/index/open-pokeball.png" alt="Pokeball" />
+            <button>Remover</button>
+          </div>
+          <div class="pokemon" data-slot="4" data-filled="false">
+            <img src="../imgs/index/open-pokeball.png" alt="Pokeball" />
+            <button>Remover</button>
+          </div>
+          <div class="pokemon" data-slot="5" data-filled="false">
+            <img src="../imgs/index/open-pokeball.png" alt="Pokeball" />
+            <button>Remover</button>
+          </div>
+        </div>
+        <h3>Status da Equipe: 0/6 Pokémon</h3>
+      </section>
+
+      <section class="section2">
+        <h2>
+          Pesquise e arraste o Pokémon escolhido até um espaço livre no seu time
+        </h2>
+
+        <input
+          type="search"
+          name="search-bar"
+          placeholder="Pesquise o nome um Pokémon"
+        />
+
+        <div id="search-result"></div>
+      </section>
+    </main>
+
+    <footer>© Professor's PokéDesk, Lucas C. Girata, 2026</footer>
+  </body>
+</html>
