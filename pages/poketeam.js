@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3001/team";
+const API_URL = "http://localhost:3000/team";
 
 let pokemons = [];
 let currentTeam = { slots: [null, null, null, null, null, null] };
