@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/team";
+const API_URL = "http://localhost:3001/team";
 
 let pokemons = [];
 let currentTeam = { slots: [null, null, null, null, null, null] };
@@ -32,7 +32,7 @@ function renderizarTimeSalvo() {
 
     if (pokemonId) {
       const pokemon = pokemons.find((p) => p.id == pokemonId);
-      if (pokemon) preencherSlot(slot, pokemon, false); // false = não salva de novo
+      if (pokemon) preencherSlot(slot, pokemon, false);
     }
   });
 
